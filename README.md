@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lee-Seungje
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning J 
+- 🌱 I’m currently learning Ja
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me (moondgod@gmail.com, pobi060727@naver.com)
 
