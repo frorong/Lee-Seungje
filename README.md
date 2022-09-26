@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Project
 - 💞️ I’m looking to collaborate on none
-- 📫 How to reach me (moondgod@gmail.com, pobi060727@naver.com, s22050@gsm.s.kr)
+- 📫 How to reach me (moondgod@gmail.com, pobi060727@naver.com, s22050@gsm.hs.kr)
 
 <!---
 Lee-Seungje/Lee-Seungje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
