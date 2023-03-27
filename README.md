@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Lee-Seungje
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Project
-- 💞️ I’m looking to collaborate on none
+- 👀 I’m interested in web front development
 - 📫 How to reach me (moondgod@gmail.com, pobi060727@naver.com, s22050@gsm.hs.kr)
 
 <!---
