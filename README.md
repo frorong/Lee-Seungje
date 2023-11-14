@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Lee-Seungje
-- 👀 I’m interested in web front development
-- 📫 How to reach me (moondgod@gmail.com, pobi060727@naver.com, s22050@gsm.hs.kr)
+# Hello, I’m @Lee-Seungje
+I am a frontend developer who enjoys analyzing and solving problems with a pragmatic perspective. I aspire to positively impact the lives of many through my work on products, harboring an ambition to contribute to meaningful outcomes.
 
-<!---
-Lee-Seungje/Lee-Seungje is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+moondgod@gmail.com
